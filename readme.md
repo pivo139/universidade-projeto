@@ -1,7 +1,7 @@
 
 # Universidade Grupo Treze
 
-Repositório destinado ao trabalho do Projeto Integrador do III semestre do Senac. O grupo contém 6 integrantes:
+Repositório destinado ao trabalho do Projeto Integrador do III semestre do Senac. O grupo contém 5 integrantes:
 
 - Antônio Gabriel Sousa Lira
 - João Vitor de Carvalho Alves
