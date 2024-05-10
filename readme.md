@@ -15,11 +15,11 @@ O presente projeto propõe o desenvolvimento de um sistema de gestão escolar pa
 
 ## Diagrama de caso de uso
 
-![Diagrama de caso de uso](docs/diagramas/1 - Diagrama de caso de uso.png)
+![Diagrama de caso de uso](/docs/diagramas/1 - Diagrama de caso de uso.png)
 
 ## Diagrama de classe - UML
 
-![Diagrama de classe](docs/diagramas/2 - Diagrama de classe.png)
+![Diagrama de classe](/docs/diagramas/2 - Diagrama de classe.png)
 
 ## Telas
 
@@ -29,11 +29,11 @@ Tela de realização do login do usuário. Nesta caso para realização da matr�
 
 Visão Mobile:
 
-![1 - Login](docs/telas/1 - Login.PNG)
+![1 - Login](/docs/telas/1 - Login.PNG)
 
 Visão Desktop/Grande telas:
 
-![2 - Login](docs/telas/2 - Login.PNG)
+![2 - Login](/docs/telas/2 - Login.PNG)
 
 #### Preenchimento Matrícula
 
@@ -41,11 +41,11 @@ O usuário será redirecionado a página de preenchimento para uma "pré-matríc
 
 Visão Mobile:
 
-![3 - C Aluno](docs/telas/3 - C Aluno.PNG)
+![3 - C Aluno](/docs/telas/3 - C Aluno.PNG)
 
 Visão Desktop/Grande telas:
 
-![4 - C Aluno](docs/telas/4 - C Aluno.PNG)
+![4 - C Aluno]/(/docs/telas/4 - C Aluno.PNG)
 
 #### Mensagem conclusão
 
@@ -53,11 +53,11 @@ Após upload doas arquivos o usuário será redirecionado para uma página com u
 
 Visão Mobile:
 
-![5 - Msg Aluno](docs/telas/5 - Msg Aluno.PNG)
+![5 - Msg Aluno](/docs/telas/5 - Msg Aluno.PNG)
 
 Visão Desktop/Grande telas:
 
-![6 - Msg Aluno](docs/telas/6 - Msg Aluno.PNG)
+![6 - Msg Aluno](/docs/telas/6 - Msg Aluno.PNG)
 
 ### Funcionalidade: Cadastro de Professores
 
@@ -65,11 +65,11 @@ Tela de realização do login do usuário. Para realizar o cadastro de professor
 
 Visão Mobile:
 
-![7 - Login](docs/telas/7 - Login.PNG)
+![7 - Login](/docs/telas/7 - Login.PNG)
 
 Visão Desktop/Grande telas:
 
-![8 - Login](docs/telas/8 - Login.PNG)
+![8 - Login](/docs/telas/8 - Login.PNG)
 
 #### Área da Secretaria
 
@@ -77,11 +77,11 @@ Ao acessar com o login e senha, o usuário terá acesso as funcionalidades de ac
 
 Visão Mobile:
 
-![9 - C Professor](docs/telas/9 - C Professor.PNG)
+![9 - C Professor](/docs/telas/9 - C Professor.PNG)
 
 Visão Desktop/Grande telas:
 
-![10 - C Professor](docs/telas/10 - C Professor.PNG)
+![10 - C Professor](/docs/telas/10 - C Professor.PNG)
 
 #### Cadastro de Professor
 
@@ -89,11 +89,11 @@ Na próxima tela deverá ser preenchidos os campos com a informação do profiss
 
 Visão Mobile:
 
-![11 - C Professor](docs/telas/11 - C Professor.PNG)
+![11 - C Professor](/docs/telas/11 - C Professor.PNG)
 
 Visão Desktop/Grande telas:
 
-![12 - C Professor](docs/telas/12 - C Professor.PNG)
+![12 - C Professor](/docs/telas/12 - C Professor.PNG)
 
 #### Mensagem conclusão
 
@@ -101,11 +101,11 @@ A próxima tela orá exibir uma mensagem de conclusão e o ID do usuário.
 
 Visão Mobile:
 
-![13 - C Professor](docs/telas/13 - C Professor.PNG)
+![13 - C Professor](/docs/telas/13 - C Professor.PNG)
 
 Visão Desktop/Grande telas:
 
-![14 - C Professor D](docs/telas/14 - C Professor D.PNG)
+![14 - C Professor D](/docs/telas/14 - C Professor D.PNG)
 
 ### Funcionalidade: Cadastro do usuário da Secretária da Universidade
 
@@ -113,11 +113,11 @@ Tela de realização do login do usuário. Para realizar o cadastro de usuários
 
 Visão Mobile:
 
-![15 - Login](docs/telas/15 - Login.PNG)
+![15 - Login](/docs/telas/15 - Login.PNG)
 
 Visão Desktop/Grande telas:
 
-![16 - Login](docs/telas/16 - Login.PNG)
+![16 - Login](/docs/telas/16 - Login.PNG)
 
 #### Área da Secretaria
 
@@ -125,11 +125,11 @@ Ao acessar com o login e senha, o usuário terá acesso as funcionalidades de ac
 
 Visão Mobile: 
 
-![17 - C Secretaria](docs/telas/17 - C Secretaria.PNG)
+![17 - C Secretaria](/docs/telas/17 - C Secretaria.PNG)
 
 Visão Desktop/Grande telas: 
 
-![18 - C Secretaria](docs/telas/18 - C Secretaria.PNG)
+![18 - C Secretaria](/docs/telas/18 - C Secretaria.PNG)
 
 #### Cadastro Usuário da Secretaria
 
@@ -137,11 +137,11 @@ Na próxima tela deverá ser preenchidos os campos com a informação do usuári
 
 Visão Mobile:
 
-![19 - C Secretaria](docs/telas/19 - C Secretaria.PNG)
+![19 - C Secretaria](/docs/telas/19 - C Secretaria.PNG)
 
 Visão Desktop/Grande telas:
 
-![20 - C Secretaria](docs/telas/20 - C Secretaria.PNG)
+![20 - C Secretaria](/docs/telas/20 - C Secretaria.PNG)
 
 #### Mensagem de conclusão
 
@@ -149,10 +149,10 @@ A próxima tela irá exibir uma mensagem de conclusão e o ID do usuário.
 
 Visão Mobile:
 
-![21 - C Secretaria](docs/telas/21 - C Secretaria.PNG)
+![21 - C Secretaria](/docs/telas/21 - C Secretaria.PNG)
 
 Visão Desktop/Grande telas
-![22 - C Secretaria D](docs/telas/22 - C Secretaria D.PNG)
+![22 - C Secretaria D](/docs/telas/22 - C Secretaria D.PNG)
 
 ### Funcionalidade: Cancelar Matrícula
 
@@ -160,11 +160,11 @@ Tela de realização do login do usuário. Para solicitar o cancelamento da matr
 
 Visão Mobile:
 
-![22.1 - Login](docs/telas/22.1 - Login.PNG)
+![22.1 - Login](/docs/telas/22.1 - Login.PNG)
 
 Visão Desktop/Grande telas:
 
-![22.2 - Login](docs/telas/22.2 - Login.PNG)
+![22.2 - Login](/docs/telas/22.2 - Login.PNG)
 
 #### Área do aluno
 
@@ -172,11 +172,11 @@ Ao acessar com o login e senha, o usuário terá acesso as funcionalidades de ac
 
 Visão Mobile:
 
-![23 - Canc Matri](docs/telas/23 - Canc Matri.PNG)
+![23 - Canc Matri](/docs/telas/23 - Canc Matri.PNG)
 
 Visão Desktop/Grande telas:
 
-![24 - Canc Matri D](docs/telas/24 - Canc Matri D.PNG)
+![24 - Canc Matri D](/docs/telas/24 - Canc Matri D.PNG)
 
 #### Cancelamento de Matrícula
 
@@ -184,11 +184,11 @@ Na próxima tela o aluno deverá descrever o motivo do cancelamento e clicar na 
 
 Visão Mobile:
 
-![25 - Canc Matri](docs/telas/25 - Canci Matri.PNG)
+![25 - Canc Matri](/docs/telas/25 - Canci Matri.PNG)
 
 Visão Desktop/Grande telas: 
 
-![26 - Canc Matri D](docs/telas/26 - Canci Matri D.PNG)
+![26 - Canc Matri D](/docs/telas/26 - Canci Matri D.PNG)
 
 #### Mensagem Cancelamento de Matrícula
 
@@ -196,11 +196,11 @@ A próxima tela irá exibir uma mensagem confirmando o envio da solicitação.
 
 Visão Mobile:
 
-![27 - Canc Matri](docs/telas/27 - Canci Matri.PNG)
+![27 - Canc Matri](/docs/telas/27 - Canci Matri.PNG)
 
 Visão Desktop/Grande telas:
 
-![28 - Canc Matri D](doc/telas/28 - Canci Matri D.PNG)
+![28 - Canc Matri D](/docs/telas/28 - Canci Matri D.PNG)
 
 ### Funcionalidade: Consultar Mensalidade.
 
@@ -208,11 +208,11 @@ Tela de realização do login do usuário. Para consultar a mensalidade, o login
 
 Visão Mobile:
 
-![28.1 - Login](docs/telas/28.1 - Login.PNG)
+![28.1 - Login](/docs/telas/28.1 - Login.PNG)
 
 Visão Desktop/Grande telas:
 
-![28.2 - Login](docs/telas/28.2 - Login.PNG)
+![28.2 - Login](/docs/telas/28.2 - Login.PNG)
 
 #### Área do Aluno
 
@@ -220,11 +220,11 @@ Ao acessar com o login e senha, o usuário terá acesso as funcionalidades de ac
 
 Visão Mobile:
 
-![29 - Consu Mens](docs/telas/29 - Consu Mens.PNG)
+![29 - Consu Mens](/docs/telas/29 - Consu Mens.PNG)
 
 Visão Desktop/Grande telas:
 
-![30 - Consu Mens](docs/telas/30 - Consu Mens.PNG)
+![30 - Consu Mens](/docs/telas/30 - Consu Mens.PNG)
 
 #### Consulta Mensalidades
 
@@ -232,11 +232,11 @@ Na próxima tela será apresentada duas seções separadas em boletos abertos e 
 
 Visão Mobile:
 
-![31 - Consu Mens](docs/telas/31 - Consu Mens.PNG)
+![31 - Consu Mens](/docs/telas/31 - Consu Mens.PNG)
 
 Visão Desktop/Grande Telas:
 
-![32 - Consu Mens](docs/telas/32 - Consu Mens.PNG)
+![32 - Consu Mens](/docs/telas/32 - Consu Mens.PNG)
 
 ### Funcionalidade: Atribuir Notas.
 
@@ -244,11 +244,11 @@ Tela de realização do login do usuário. Para atribuir notas, o login deve ser
 
 Visão Mobile:
 
-![32.1 - Login](docs/telas/32.1 - Login.PNG)
+![32.1 - Login](/docs/telas/32.1 - Login.PNG)
 
 Visão Desktop/Grande Telas:
 
-![32.2 - Login](docs/telas/32.2 - Login.PNG)
+![32.2 - Login](/docs/telas/32.2 - Login.PNG)
 
 #### Área do Professor
 
@@ -256,11 +256,11 @@ Ao acessar com o login e senha, o usuário terá acesso as funcionalidaeds de ac
 
 Visão Mobile:
 
-![33 - Notas](docs/telas/33 - Notas.PNG)
+![33 - Notas](/docs/telas/33 - Notas.PNG)
 
 Visão Desktop/Grande telas:
 
-![34 - Notas](docs/telas/34 - Notas.PNG)
+![34 - Notas](/docs/telas/34 - Notas.PNG)
 
 #### Atribuir Notas
 
@@ -268,11 +268,11 @@ Ao acessar a opção, o professor irá selecionar a matéria e a turma, ambas in
 
 Visão Mobile:
 
-![35 - Notas](docs/telas/35 - Notas.PNG)
+![35 - Notas](/docs/telas/35 - Notas.PNG)
 
 Visão Desktop/Grande telas:
 
-![36 - Notas](docs/telas/36 - Notas.PNG)
+![36 - Notas](/docs/telas/36 - Notas.PNG)
 # Universidade Grupo Treze
 
 Repositório destinado ao trabalho do Projeto Integrador do III semestre do Senac. O grupo contém 6 integrantes:
