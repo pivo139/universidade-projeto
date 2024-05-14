@@ -27,9 +27,10 @@ O presente projeto propõe o desenvolvimento de um sistema de gestão escolar pa
 
 Tela de realização do login do usuário. Nesta caso para realização da matrícula, o usuário deve clicar na opção "Realizar Matrícula".
 
-Visão Mobile:
+**Visão Mobile:**
 
 ![1 - Login](/docs/1_Login.PNG)
+<img src="/docs/1_Login.PNG" alt="Login" width="40%" height="auto">
 
 Visão Desktop/Grande telas:
 
