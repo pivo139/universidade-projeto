@@ -15,11 +15,11 @@ O presente projeto propõe o desenvolvimento de um sistema de gestão escolar pa
 
 ## Diagrama de caso de uso
 
-![Diagrama de caso de uso](/docs/1_Diagrama_caso_uso.png)
+<img src="/docs/1_Diagrama_caso_uso.png" alt="Diagrama de caso de uso" width="75%" height="auto">
 
 ## Diagrama de classe - UML
 
-![Diagrama de classe](/docs/2_Diagrama_classe.jpg)
+<img src="/docs/2_Diagrama_classe.jpg" alt="Diagrama de classe" width="75%" height="auto">
 
 ## Telas
 
@@ -29,10 +29,9 @@ Tela de realização do login do usuário. Nesta caso para realização da matr�
 
 **Visão Mobile:**
 
-![1 - Login](/docs/1_Login.PNG)
-<img src="/docs/1_Login.PNG" alt="Login" width="40%" height="auto">
+<img src="/docs/1_Login.PNG" alt="Login" width="35%" height="auto">
 
-Visão Desktop/Grande telas:
+**Visão Desktop/Grande telas:**
 
 ![2 - Login](/docs/2_Login.PNG)
 
