@@ -4,7 +4,7 @@
 Repositório destinado ao trabalho do Projeto Integrador do III semestre do Senac. O grupo contém 5 integrantes:
 
 - NOME: Antônio 
-- NOME: João
+- João Vitor de Carvalho Alves 
 - NOME: Nathan
 - Pedro Ivo Maldonado Roschel
 - Vinicius Cardoso Meira
