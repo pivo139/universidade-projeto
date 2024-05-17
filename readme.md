@@ -5,7 +5,7 @@ Repositório destinado ao trabalho do Projeto Integrador do III semestre do Sena
 
 - Antônio Gabriel Sousa Lira
 - João Vitor de Carvalho Alves 
-- NOME: Nathan
+- Nathan da Silva Rocha
 - Pedro Ivo Maldonado Roschel
 - Vinicius Cardoso Meira
 
